@@ -1,1 +1,1 @@
-This is trial create ignor file
+This is trial create ignore file
