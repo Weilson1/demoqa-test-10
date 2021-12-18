@@ -1,1 +1,2 @@
 This is trial create ignore file
+And i rename repository
