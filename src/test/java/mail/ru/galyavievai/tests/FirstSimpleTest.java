@@ -1,4 +1,4 @@
-package mail.ru.galyavievai;
+package mail.ru.galyavievai.tests;
 
 import org.junit.jupiter.api.*;
 

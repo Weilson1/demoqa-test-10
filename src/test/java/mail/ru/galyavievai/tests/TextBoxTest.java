@@ -1,8 +1,5 @@
-package mail.ru.galyavievai;
+package mail.ru.galyavievai.tests;
 
-import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Configuration;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.text;
